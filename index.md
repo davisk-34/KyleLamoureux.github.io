@@ -2,7 +2,7 @@
 # **Kyle Lamoureux**
 (204) 612-6379 • KyleLamoureux98@gmail.com • https://github.com/KyleLamoureux  
 
-**Bachelor of Science - Computer Science Major (Co-op)**
+**Bachelor of Science - Computer Science Major (Co-op)**  
 University of Manitoba • Expected: April 2021 • GPA: 3.97/4.50
 
 ## **Technical Skills**
