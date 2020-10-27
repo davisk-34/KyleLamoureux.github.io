@@ -5,8 +5,6 @@
 **Bachelor of Science - Computer Science Major (Co-op)**
 University of Manitoba • Expected: April 2021 • GPA: 3.97/4.50
 
-----
-
 ## **Technical Skills**
 
 **Languages:** Python, JavaScript/React/Node, Java, HTML, SQL, C, C++
