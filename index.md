@@ -19,7 +19,7 @@ University of Manitoba • Expected: April 2021 • GPA: 3.97/4.50
 Librestream Technologies Inc, Co-op Work Term III  
 _Developed a proof of concept demonstrating WebRTC communication via SIP, and investigated both the requirements and difficulty of blending augmented reality technology with the companies established platform._
 *   **WebRTC SIP Prototype** - Built from the ground up to demonstrate lightweight WebRTC browser to Librestream client calling over SIP.  Created using react and material UI and was successfully demonstrated to company stakeholders.
-*   **Augmented Reality Research** - Documented the requirements, challenges, and findings discovered while researching the possibility of supporting two different AR headwear on the companies platform.
+*   **Augmented Reality Research** - Documented the requirements, challenges, and findings discovered while researching the possibility of the companies platform supporting two different AR headwear.
 
 **Junior Machine Learning Engineer • September - December 2019**
 
