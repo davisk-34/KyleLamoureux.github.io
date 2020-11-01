@@ -78,12 +78,12 @@ In this tutorial you've simply selected a theme to apply to your hosted resume. 
 
 ## **FAQs**
 1. Why is Markdown better than a word processor?
-    > It's not better in all cases, but in this scenario, it is the best tool for the job. This is because it will allow you to easily modify your resume. Say you go to a programming event and you would like to include it on your resume; with Markdown it is as simple as clicking edit in the repository. On the other hand, if you used a word processor you will have to update it, exported it, remove the old version, then upload the new version. Markdown makes sure you avoid this multi-step process everytime you want to update your resume. In short, Markdown is both versatile and lightweight which makes it perfect for web based documents that will be modified and grow over time.
+    > It's not better in all cases, but in this scenario, it is the best tool for the job. This is because it will allow you to easily modify your resume. Say you go to a programming event and you would like to include it on your resume; with Markdown it is as simple as clicking edit in the repository. On the other hand, if you used a word processor you will have to update it, exported it, remove the old version, then upload the new version. Markdown makes sure you avoid this multi-step process every time you want to update your resume. In short, Markdown is both versatile and lightweight which makes it perfect for web based documents that will be modified and grow over time.
 
 2. Why is my resume not showing up?
     > The first, and most likely, reason is you simply have to wait a while for github to process the changes and update the site. Github is offering this capability for free, to anyone, so there is likely a long line of people waiting for their site to update just like you.
 
-    > The second, and more unlikely, reason could be you've made a mistake during the tutioral that is preventing it from showing up.
+    > The second, and more unlikely, reason could be you've made a mistake during the tutorial that is preventing it from showing up.
 
 ## **Author & Acknowledgements**
 - **Kyle Lamoureux**
