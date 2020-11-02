@@ -14,7 +14,7 @@ You're going to require a few things before you get started...
 
 ## **Instructions**
 
-## Formatting Your Resume
+### Formatting Your Resume
 This tutorial **requires** that you have a resume formatted in Markdown, if it's already formatted in Markdown, please proceed to the next section, if not read on.  
 
 Before you begin manually recreating your resume from scratch in Markdown, browse the links below as they will provide you with resources to significantly reduce the amount of work you have to do.
@@ -27,10 +27,10 @@ Before you begin manually recreating your resume from scratch in Markdown, brows
 
 ![Google Doc Markdown Conversion](MarkdownConvertGIF.gif)
 
-### **Context**
+#### **Context**
 Markdown is a lightweight markup language. Andrew Etter outlines several reasons why lightweight markup languages, specifically Markdown, are the go-to document types for use on websites. And in my opinion, the most important reason he describes is that the syntax is clean, which makes reading the prerendered document simple. Not only is reading it simple, but writing it is too. Both facets of this simplicity are vital, as it enables contributions from individuals who won't need any specialized knowledge in a complex tool to write clean maintainable documents. In your case, creating your Markdown resume should have been relatively painless; and once this tutorial is completed you will see a beautifully rendered resume, that can be changed on the spot without hassle.
 
-## Setting Up The GitHub Repository
+### Setting Up The GitHub Repository
 Create a new repository on your GitHub account:
 1. Name it **[_GitHub Username_].github.io**
 2. Set it to **public**
@@ -48,10 +48,10 @@ Navigate to the new repo and create **2** new files:
     c. Leave the edit file window empty  
     d. Click `Commit new file`  
 
-### **Context**
+#### **Context**
 Git is one of the most powerful tools in a developers repertoire. It simplifies and streamlines projects where you are not the only contributor. The contributors of the project don't need to worry about maintaining synchronicity of the code base, as git does that for you. Git can be used for more than just maintaining a codebase, as Andrew Etter explains why it's useful for documentation as well. He explains that it allows documentation to stay in sync with the code base, as it is intrinsically linked. If functionality changes or if additional capabilities have been added, the developers can then immediately go and update the documentation. They are not forced to go to a completely different service to do so, and thus making them more likely to make the required update to the documentation.
 
-## Adding A Theme
+### Adding A Theme
 Select a prebuilt theme to enhance the visual appeal of your resume:
 1. Click on the `Settings` option
 2. Locate the `GitHub Pages` subsection by scrolling down  
@@ -67,7 +67,7 @@ Select a prebuilt theme to enhance the visual appeal of your resume:
     - Learn about them and others [here](https://gitlab.com/pages/jekyll/blob/master/_config.yml)
 6. Check out your site by going to: **https://[_GitHub Username_].github.io/** or you can additionally find the name of your site in the `GitHub Pages` subsection in the `Settings` option from before.
 
-### **Context**
+#### **Context**
 In this tutorial you've simply selected a theme to apply to your hosted resume. However, the depth of customization static site generators provide you is extensive. This customization allows you to create uniquely designed sites that stand out from the crowd. Not only will your sites be beautifully designed, but if you go and inspect the site you've just created by clicking `F12`, you can see the extensive amount of code Jekyll has generated from your simple document; this relatively complex code, that you didn't have to write, was generated in seconds bug free. Andrew Etter echos these ideas in addition to praising static site generators for their "speed, simplicity, portability, and security". When reading documentation functionality and visual appeal are key, and both of these are effectively and efficiently done by utilizing static site generators.
 
 
