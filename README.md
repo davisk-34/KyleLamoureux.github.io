@@ -23,7 +23,7 @@ Before you begin manually recreating your resume from scratch in Markdown, brows
 
 - [DOCX →  Markdown](https://word2md.com/) from the browser
 - [PDF →  Markdown](https://pdf2md.morethan.io/) from the browser
-- [Google Doc →  Markdown](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607) from Google Docs
+- [Google Doc →  Markdown](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607) from Google Docs  
 Google Docs demonstration
 ![Google Doc Markdown Conversion](MarkdownConvertGIF.gif)
 
